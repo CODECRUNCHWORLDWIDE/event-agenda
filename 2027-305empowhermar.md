@@ -5,7 +5,7 @@
 > **Flyer**
 
 <p align="center">
-  <img src="https://placehold.co/600x750/0f766e/d9f99d/png?font=montserrat&text=305+EmpowHER%5CnMarch+2027%5CnIn+Person+%2B+Online%5CnFlyer+TBA" alt="305 EmpowHER March 2027 Flyer" width="600">
+  <img src="https://placehold.co/600x750/0f766e/d9f99d/png?font=montserrat&text=305+EmpowHER%5CnMarch+2027%5CnIn+Person+%2B+Online" alt="305 EmpowHER March 2027 Flyer" width="600">
 </p>
 
 ---
