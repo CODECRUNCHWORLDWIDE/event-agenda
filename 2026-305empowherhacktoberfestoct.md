@@ -87,42 +87,92 @@ Projects can include:
 
 # Session A Agenda
 
-| Time                | Activity                                                                                          |
-| ------------------- | ------------------------------------------------------------------------------------------------- |
-| 8:00 AM – 8:30 AM   | Check-in, breakfast, networking, and team setup                                                   |
-| 8:30 AM – 9:00 AM   | Opening ceremony, welcome remarks, event overview, agenda, and rules                              |
-| 9:00 AM – 9:30 AM   | Hackathon kickoff, project ideas, tools, and technical resources                                  |
-| 9:30 AM – 11:00 AM  | Workshop #1: Hands-on technical workshop                                                          |
-| 11:00 AM – 11:30 AM | Networking and coffee break                                                                       |
-| 11:30 AM – 1:00 PM  | Workshop #2: Career Readiness Workshop                                                            |
-| 1:00 PM – 2:00 PM   | Lunch break and networking                                                                        |
-| 2:00 PM – 3:30 PM   | Workshop #3: Job Hunting & Internship Prep Workshop                                               |
-| 3:30 PM – 4:00 PM   | Networking and coffee break                                                                       |
-| 4:00 PM – 5:30 PM   | Workshop #4: Devpost Submission Workshop                                                          |
-| 5:30 PM – 6:00 PM   | Project preparation and live demo setup                                                           |
-| 6:00 PM – 7:00 PM   | Project showcase and team demos                                                                   |
-| 7:00 PM – 7:30 PM   | Judging and finalist review                                                                       |
-| 7:30 PM – 8:00 PM   | Closing ceremony, awards, certificates, and group photo                                           |
 
----
+## Event Schedule
 
-# Workshops
+| Time | Activity |
+| --- | --- |
+| 8:00 AM – 8:30 AM | Check-in, breakfast, and networking |
+| 8:30 AM – 9:00 AM | Opening ceremony and welcome remarks |
+| 9:00 AM – 9:15 AM | GitHub Workshop |
+| 9:15 AM – 9:30 AM | Devpost Workshop |
+| 9:30 AM – 10:00 AM | Resume Building Workshop |
+| 10:00 AM – 10:30 AM | Job Hunting Tips |
+| 10:30 AM – 12:00 PM | League of Legends Game Time |
+| 12:00 PM – 1:00 PM | Lunch and networking |
+| 1:00 PM – 2:00 PM | Project building and collaboration |
+| 2:00 PM – 2:30 PM | Google Cloud Workshop |
+| 2:30 PM – 3:30 PM | AI Study Buddy with Swift Workshop |
+| 3:30 PM – 4:00 PM | Project development and preparation |
+| 4:00 PM – 5:00 PM | Project submissions and final preparation |
+| 5:00 PM – 7:00 PM | Just Dance with Hailey and game time (dinner at 6:00 PM) |
+| 7:00 PM – 7:30 PM | Project demos and showcase |
+| 7:30 PM – 7:50 PM | Judging and finalist review |
+| 7:50 PM – 8:00 PM | Awards and closing ceremony |
+  
 
-## Workshop #1 — Hands-on Technical Workshop
+# Workshops & learning opportunities
 
-A hands-on technical session to help teams get started with the tools, APIs, and technologies used during the hackathon.
+## Workshop #1 — GitHub Workshop
+**Time: 9:00 AM – 9:15 AM**
 
-## Workshop #2 — Career Readiness Workshop
+Get familiar with GitHub and learn how to collaborate on projects during the hackathon.
 
-Get your professional profile ready:
+- Introduction to Git and GitHub
+- Creating and managing repositories
+- Understanding commits, branches, and pull requests
+- Collaborating with teammates using GitHub
 
-* Resume review and tech resume tips
-* LinkedIn profile setup
-* GitHub profile and project portfolio
-* Elevator pitch and networking basics
+## Workshop #2 — Devpost Workshop
+**Time: 9:15 AM – 9:30 AM**
 
-## Workshop #3 — Job Hunting & Internship Prep Workshop
+Learn how to showcase your hackathon project and prepare a successful submission.
 
+- Getting started with Devpost
+- Creating your project submission
+- Writing a compelling project description
+- Adding screenshots, demo videos, and GitHub repositories
+
+## Workshop #3 — Resume Building Workshop
+**Time: 9:30 AM – 10:00 AM**
+
+Level up your resume and learn how to highlight your technical skills, projects, and experiences.
+
+- Building a professional tech resume
+- Showcasing technical skills and personal projects
+- Writing impactful project descriptions
+- Common resume mistakes and how to avoid them
+
+## Workshop #4 — Job Hunting Tips
+**Time: 10:00 AM – 10:30 AM**
+
+Discover strategies to navigate the tech job market and find opportunities that match your interests.
+
+- Finding internships and entry-level opportunities
+- Improving your LinkedIn and GitHub profiles
+- Networking with recruiters and industry professionals
+- Preparing for technical and behavioral interviews
+
+## Workshop #5 — Google Cloud Workshop
+**Time: 2:00 PM – 2:30 PM**
+
+Explore cloud computing and discover how Google Cloud can support your next project.
+
+- Introduction to Google Cloud
+- Exploring cloud-based tools and services
+- Understanding APIs and cloud infrastructure
+- Discovering ways to integrate cloud services into hackathon projects
+
+## Workshop #6 — AI Study Buddy with Swift
+**Time: 2:30 PM – 3:30 PM**
+
+Get hands-on with Swift and explore how artificial intelligence can help create smarter applications.
+
+- Introduction to Swift and iOS development
+- Understanding the AI Study Buddy concept
+- Building interactive app features using Swift
+- Exploring AI integration in mobile applications
+- Learning how to continue developing your project after the workshop
 Learn how to find and land tech roles:
 
 * Where to find internships, co-ops, and entry-level roles
@@ -175,6 +225,9 @@ Lunch will be provided during the in-person event.
 # Hackathon Resources
 
 Participants registered through the OneStop Form may have access to the following resources:
+
+* **Hackathon Starter Project**
+  https://github.com/HACKUNIVERSITYWORLDWIDE/starter-hackathon-project
 
 * **Free Courses / Bootcamps, Specialty Tracks, and Crunch Labs**  
   Open-source and community-built learning resources:  
